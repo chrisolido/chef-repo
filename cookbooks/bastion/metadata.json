@@ -1,0 +1,30 @@
+{
+  "replacing": {
+  },
+  "description": "Installs/Configures bastion",
+  "maintainer": "Fastacash",
+  "version": "0.0.1",
+  "name": "bastion",
+  "recommendations": {
+  },
+  "recipes": {
+    "bastion::default": "Prints hello bastion"
+  },
+  "platforms": {
+  },
+  "groupings": {
+  },
+  "license": "All rights reserved",
+  "maintainer_email": "chris.olido@gmail.com",
+  "providing": {
+  },
+  "conflicting": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "attributes": {
+  },
+  "suggestions": {
+  },
+  "dependencies": {
+  }
+}
